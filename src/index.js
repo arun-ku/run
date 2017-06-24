@@ -1,7 +1,7 @@
 import React from 'react';
 import { render } from 'react-dom';
 
-const App = () => (<span>React App</span>);
+import { App } from './components/core'
 
 const elem = document.getElementById('app');
 
