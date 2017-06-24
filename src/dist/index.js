@@ -1,0 +1,1 @@
+webpackJsonp([0],{83:function(e,t,n){"use strict";var u=n(49),l=function(e){return e&&e.__esModule?e:{default:e}}(u),a=n(57),r=function(){return l.default.createElement("span",null,"React App")},c=document.getElementById("app");(0,a.render)(l.default.createElement(r,null),c)}},[83]);
