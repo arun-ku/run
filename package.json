@@ -4,7 +4,7 @@
   "description": "Snake and ladder",
   "main": "index.js",
   "engines": {
-    "node": "12.x"
+    "node": "8.x"
   },
   "scripts": {
     "start": "babel-node index.js",
