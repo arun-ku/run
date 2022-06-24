@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Snake and ladder",
   "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "start": "babel-node index.js",
     "dev-server": "nodemon --exec babel-node - index.js",
